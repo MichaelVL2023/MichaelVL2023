@@ -6,7 +6,7 @@
 ## I'm a Systems and Computer Engineering student                                                  
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="310" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 👨‍💻 I'm currently in my seventh semester at the Universidad Peruana de Ciencias Aplicadas
@@ -14,10 +14,14 @@
 - 💪🏼 Future Goals: Learn more technologies and never stop creating new ideas
 - ⚡ Fun fact: I love playing soccer and video games 🎮⚽.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e56nas7c732o42njdg4e32teoq)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e56nas7c732o42njdg4e32teoq) 
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" style="max-width: 100%; display: grid;" data-target="animated-image.originalImage">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
