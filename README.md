@@ -16,12 +16,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block"> Spotify Playing 🎧</h1></summary>
+  </ul>
+</div>
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31e56nas7c732o42njdg4e32teoq) 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" style="max-width: 100%; display: grid;" data-target="animated-image.originalImage">
-
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645) <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9811848206ae87d309c5bbe7e88a52d0a415464abd8fdc11a51f2f1c90b8308f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a3542315938515a6e7a5858624c514942752f67697068792e676966" data-target="animated-image.originalLink"><img align="right" alt="GIF" height="300px" src="https://camo.githubusercontent.com/9811848206ae87d309c5bbe7e88a52d0a415464abd8fdc11a51f2f1c90b8308f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a3542315938515a6e7a5858624c514942752f67697068792e676966" data-canonical-src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" style="max-width: 100%; display: inline-block" data-target="animated-image.originalImage"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
